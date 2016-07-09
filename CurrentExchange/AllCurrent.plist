@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>currentExchange</key>
+		<string>128000</string>
+		<key>currentName</key>
+		<string>KRW</string>
+		<key>countryImg</key>
+		<string>SouthKorea.png</string>
+		<key>countryName</key>
+		<string>韩币</string>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>人民币</string>
+		<key>countryImg</key>
+		<string>China.png</string>
+		<key>currentName</key>
+		<string>CYN</string>
+		<key>currentExchange</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>港币</string>
+		<key>countryImg</key>
+		<string>HongKong.png</string>
+		<key>currentName</key>
+		<string>HKD</string>
+		<key>currentExchange</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>英镑</string>
+		<key>countryImg</key>
+		<string>UnitedKingdomFlag.png</string>
+		<key>currentName</key>
+		<string>GBP</string>
+		<key>currentExchange</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>欧元</string>
+		<key>countryImg</key>
+		<string>EuropeanUnionFlag.png</string>
+		<key>currentName</key>
+		<string>EUR</string>
+		<key>currentExchange</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>countryName</key>
+		<string>美元</string>
+		<key>countryImg</key>
+		<string>UnitedStates.png</string>
+		<key>currentName</key>
+		<string>USD</string>
+		<key>currentExchange</key>
+		<string>100</string>
+	</dict>
+</array>
+</plist>
